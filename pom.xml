@@ -11,7 +11,7 @@
     <packaging>jar</packaging>
     <groupId>org.webjars</groupId>
     <artifactId>ckeditor-html5-video</artifactId>
-    <version>1.1-SNAPSHOT</version>
+    <version>1.1</version>
     <name>CKEditor HTML5 Video</name>
     <description>WebJar for CKEditor HTML5 Video</description>
     <url>http://webjars.org</url>
